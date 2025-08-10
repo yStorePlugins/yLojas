@@ -21,5 +21,14 @@ Itens:
       Name: '&aLojas'
       Lore:
       - '&7Clique para acessar o menu de lojas.'
+   Top:
+      Slot: 14
+      material: 'GOLD_INGOT'
+      name: '&eTOP'
+      lore:
+         - '&7Confira os usuários que possuem'
+         - '&7as lojas mais visitadas do servidor.'
+         - ''
+         - '&aClique para acessar.'
 
 ## CASO QUEIRA CRIAR OUTROS ITENS PARA ENFEITAR TEU MENU, ABAIXO DE ITENS: -> LOJAS:, COPIE E COLE E MUDE O NOME E AS INFORMAÇÕES :)

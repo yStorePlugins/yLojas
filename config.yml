@@ -41,6 +41,9 @@ Desc quantia: 20
 # Em segundos ( delay para anunciar a loja )
 Delay: 60
 
+# Tag do jogador com a loja mais visitada
+Tag: '&5[SHOP]'
+
 # Fechar lojas as quais os jogadores logaram há mais de x tempo
 # em segundos
 # Deixe 0 para não usar
